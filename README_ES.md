@@ -1,4 +1,4 @@
-# [:uk:](README_EN.md) [:de:](README_DE.md) [:fr:](README_FR.md)
+# [:uk:](README.md) [:de:](README_DE.md) [:fr:](README_FR.md)
 ### Plugin GIMP 3.0: Exportar a WebP Optimizado
 
 Este es un plugin basado en Python para GIMP 3.0 diseñado para optimizar y exportar imágenes específicamente para uso web. Convierte automáticamente tu lienzo al formato WebP garantizando una compresión eficiente y un tamaño de archivo mínimo (objetivo < 2MB), ideal para proyectos web modernos como plataformas en Vercel.
