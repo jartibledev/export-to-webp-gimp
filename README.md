@@ -23,3 +23,7 @@ Open any image in GIMP 3.0 and navigate the top menu to:
 
 **Credits:**
 Developed by Maya López & Sergio (2026).
+=======
+# export-to-webp-gimp
+Plugging to export images to web develop
+>>>>>>> f9b346d74f4b71b647ce512baa6139be589cd713
